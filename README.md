@@ -243,3 +243,4 @@ For support and questions:
 ---
 
 **Note**: This application is designed for educational and research purposes. Always respect copyright and citation requirements when using research papers.
+<!-- Updated: 2025-09-16 -->

@@ -30,8 +30,8 @@ An advanced RAG (Retrieval-Augmented Generation) application that enables intera
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/chat_with_research_papers
+   git clone https://github.com/rchhabra13/chat_with_research_papers.git
+   cd chat_with_research_papers
    ```
 
 2. **Install dependencies**
